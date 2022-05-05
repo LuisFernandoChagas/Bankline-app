@@ -17,10 +17,10 @@
 </h3>
 
 - Tela de consulta de movimentações bancárias
-<img src="https://github.com/LuisFernandoChagas/Bankline-app/blob/main/src/fotos/Consulta_de_movimentacoes.png">
+<img src="https://github.com/LuisFernandoChagas/Bankline-app/blob/main/src/assets/Consulta_de_movimentacoes.png">
 
 - Tela de criação de novas movimentações bancárias
-<img src="https://github.com/LuisFernandoChagas/Bankline-app/blob/main/src/fotos/Criar_nova_movimentacao.png">
+<img src="https://github.com/LuisFernandoChagas/Bankline-app/blob/main/src/assets/Criar_nova_movimentacao.png">
 
 - Tela para cadastro e consulta de correntistas
 <img src="https://github.com/LuisFernandoChagas/Bankline-app/blob/main/src/assets/Cadastro_e_consulta_de_correntistas.png">
