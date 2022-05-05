@@ -1,27 +1,44 @@
-# BanklineApp
+<h1 align=center>
+    Bankline-API
+</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
+<h3 align=center>
+    Objetivo
+</h3>
 
-## Development server
+- Gerar uma interface de usuário que permite criar e consultar movimentações bancárias e correntistas.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- Gerar uma interface de usuário que permite criar e consultar correntistas.
 
-## Code scaffolding
+---
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<h3 align=center>
+    Em funcionamento
+</h3>
 
-## Build
+- Tela de consulta de movimentações bancárias
+<img src="https://github.com/LuisFernandoChagas/Bankline-api/blob/main/src/fotos/Consulta_de_movimentacoes.png">
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- Tela de criação de novas movimentações bancárias
+<img src="https://github.com/LuisFernandoChagas/Bankline-api/blob/main/src/fotos/Criar_nova_movimentacao.png">
 
-## Running unit tests
+- Tela para cadastro e consulta de correntistas
+<img src="https://github.com/LuisFernandoChagas/Bankline-api/blob/main/src/fotos/Cadastro_e_consulta_de_correntistas.png">
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+---
 
-## Running end-to-end tests
+<h3 align=center>
+    Tecnologias utilizadas
+</h3>
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+- [Angular](https://angular.io/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Bootstrap](https://getbootstrap.com/)
 
-## Further help
+---
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<h3 align=center>
+    Créditos
+</h3>
+
+- Projeto desenvolvido durante a Santander Dev Week 🚀
